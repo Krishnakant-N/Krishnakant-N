@@ -2,7 +2,7 @@
 - 👀 I’m interested in website an web apps.
 - 🌱 I’m currently learning Web development.
 - 💞️ I’m looking to collaborate on differrent projects.
-- 📫 Reach me @ myemail krishnakant.13.niwaria@gmail.com
+- 📫 Reach me @ my email krishnakant.13.niwaria@gmail.com
 - 😄 Pronouns: HE/HIM 
 
 <!---
