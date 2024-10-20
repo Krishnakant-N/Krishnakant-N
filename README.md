@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Krishnakant-N
-- 👀 I’m interested in website and web apps.
+- 👋 Hi, I’m L Krishna Kant Niwaria.
+- 👀 I’m interested in websites and web apps.
 - 🌱 I’m currently learning Web development.
-- 💞️ I’m looking to collaborate on differrent projects.
+- 💞️ I’m looking to collaborate on different projects.
 - 📫 Reach me @ my email krishnakant.13.niwaria@gmail.com
 - 😄 Pronouns: HE/HIM 
 
