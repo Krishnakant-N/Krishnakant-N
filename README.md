@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Krishnakant-N
-- 👀 I’m interested in website an web apps.
+- 👀 I’m interested in website and web apps.
 - 🌱 I’m currently learning Web development.
 - 💞️ I’m looking to collaborate on differrent projects.
 - 📫 Reach me @ my email krishnakant.13.niwaria@gmail.com
