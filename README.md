@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Next.js Messaging App**
 
-- 🌱 I’m currently learning **React-native.**
+- 🌱 I’m currently learning **React-native.** and **DSA in Python**.
 
 - 👯 I’m looking to collaborate on **different Projects.**
 
