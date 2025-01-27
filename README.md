@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm L Krishna Kant Niwaria</h1>
 <h3 align="center">A full-stack web developer and skilled coder from India.</h3>
 
-- 🔭 I’m currently working on **Next.js Messaging App**
+- 🔭 I’m currently working on **Next.js Messaging App**.
 
-- 🌱 I’m currently learning **React-native.** and **DSA in Python**.
+- 🌱 I’m currently learning **React-native** and **DSA in Python**.
 
 - 👯 I’m looking to collaborate on **different Projects.**
 
